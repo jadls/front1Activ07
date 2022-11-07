@@ -1,0 +1,38 @@
+
+
+header {
+    background-color:#e6e6e6;
+    text-align: center;
+    ;
+}
+.salto {
+    font-size: 2rem;
+}
+h1{
+    background-color:#c4c4c4;
+    color: #005677;
+    position: relative;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif, Georgia;
+    font-style: normal;    
+}
+.items {
+    font-style: italic;
+    font-weight: bold;
+}
+h3{
+    background-color:#c4c4c4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif, Georgia;
+    font-style: normal;
+}
+footer {
+    background-size: 2px;
+    background-color:#005677;
+    color: #ffffff;
+    text-align: center;
+    /*background-position: center;*/
+}
+.text-footer{
+    vertical-align: middle;
+}
